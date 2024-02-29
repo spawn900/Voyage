@@ -95,7 +95,7 @@ function CreateLocalizationInfo()
 		Strings.PluginOption9 = " Anzeigen";
 		Strings.PluginOption10 = "Speichern";
 		Strings.PluginOption11 = " Haus des Sippenmitglieds";
-		Strings.PluginOption12 = " Manuelle \195\132nderungen beibehalten";
+		Strings.PluginOption12 = " Manuelle \195\132nderungen behalten";
 		Strings.PluginOptionAlert = "!!! ACHTUNG: ALLE REISEFERTIGKEITEN\n WERDEN ERNEUT INITIALISIERT !!!";
 		Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
 		------------------------------------------------------------------------------------------
